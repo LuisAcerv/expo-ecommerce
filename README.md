@@ -1,4 +1,4 @@
-# Fira
+# EXPO-ECOMMERCE
 
 eCommerce App React Native Codekit
 
